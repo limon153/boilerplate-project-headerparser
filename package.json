@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "API project for freeCodeCamp",
   "scripts": {
-    "start": "ts-node ./src/main.ts",
+    "start": "ts-node ./src/server.ts",
     "start:dev": "nodemon",
     "eslint": "eslint --ext .js,.ts,.tsx src/",
     "prettier": "prettier -c \"src/**/*.{ts,tsx}\"",
